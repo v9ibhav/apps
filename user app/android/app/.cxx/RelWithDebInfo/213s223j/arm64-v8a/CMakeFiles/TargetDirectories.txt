@@ -1,0 +1,2 @@
+C:/homicon/apps/user app/android/app/.cxx/RelWithDebInfo/213s223j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/homicon/apps/user app/android/app/.cxx/RelWithDebInfo/213s223j/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/homicon/apps/provider app/android/app/.cxx/RelWithDebInfo/5s593142/x86/CMakeFiles/edit_cache.dir
+C:/homicon/apps/provider app/android/app/.cxx/RelWithDebInfo/5s593142/x86/CMakeFiles/rebuild_cache.dir

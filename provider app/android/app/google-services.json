@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "711654363243",
+    "project_id": "homiconindia",
+    "storage_bucket": "homiconindia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711654363243:android:5781f8d89dac80ce00212e",
+        "android_client_info": {
+          "package_name": "com.homicon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZ4QzP9KQQmHJtf7CSUCpS-iGlTQFsfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711654363243-8kpqilk4qb8onf9prv40jl4l7clfpkdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homicon.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711654363243:android:5352753a0f9350c600212e",
+        "android_client_info": {
+          "package_name": "com.homicon.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711654363243-v5p9tom1kh84u4vj1t2ussq27muotodd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homicon.provider",
+            "certificate_hash": "afd72d870fb64cebc4c52c88e1614d6322dc9914"
+          }
+        },
+        {
+          "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZ4QzP9KQQmHJtf7CSUCpS-iGlTQFsfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711654363243-8kpqilk4qb8onf9prv40jl4l7clfpkdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homicon.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711654363243:android:15871a67c5c3230c00212e",
+        "android_client_info": {
+          "package_name": "com.homicon.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711654363243-k1a3vova1i5u5o3i9bod8m5ppqjeabc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homicon.user",
+            "certificate_hash": "afd72d870fb64cebc4c52c88e1614d6322dc9914"
+          }
+        },
+        {
+          "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZ4QzP9KQQmHJtf7CSUCpS-iGlTQFsfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711654363243-bd9keurvt0e2h25ba1podg26odqgtcqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711654363243-8kpqilk4qb8onf9prv40jl4l7clfpkdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homicon.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
